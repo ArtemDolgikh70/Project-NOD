@@ -5,7 +5,7 @@
 ## Соста группы
 Долгих Артём (github: ArtemDolgikh70)
 
-Альберт Сафиуллин (github: )
+Альберт Сафиуллин (github: glitchweft)
 
 Макар Андреев (github: )
 
